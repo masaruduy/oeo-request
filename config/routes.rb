@@ -1,4 +1,8 @@
 OeoRequest::Application.routes.draw do
+  resources :requests
+
+  resources :users
+
   root 'static_pages#home'
   get "static_pages/home"
   get "static_pages/help"
