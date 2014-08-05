@@ -1,0 +1,1469 @@
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:21:08 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 5647ms (Views: 5591.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:23:24 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (20.0ms)
+Completed 200 OK in 250ms (Views: 185.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:24:25 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 156ms (Views: 95.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:25:27 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 151ms (Views: 96.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:25:28 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 14ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:26:53 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 159ms (Views: 101.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:26:53 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 17:27:54 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:27:54 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 152ms (Views: 97.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:27:54 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:30:10 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 147ms (Views: 94.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 17:30:10 -0400
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:30:10 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 7ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:31:06 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 136ms (Views: 82.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:31:06 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 17:31:06 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 17:31:56 -0400
+Processing by StaticPagesController#about as HTML
+Completed 500 Internal Server Error in 161ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:31:56 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 81ms (Views: 81.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:31:56 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:33:34 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 155ms (Views: 100.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:33:35 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 17:33:35 -0400
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:34:16 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 146ms (Views: 89.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:34:16 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 17:34:16 -0400
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:44:43 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb (11.0ms)
+Completed 200 OK in 126ms (Views: 71.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:44:43 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 17:44:43 -0400
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:44:43 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:48:01 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb (11.0ms)
+Completed 200 OK in 123ms (Views: 70.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:48:01 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:48:01 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 17:48:02 -0400
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:54:34 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb (2.0ms)
+Completed 500 Internal Server Error in 115ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:54:35 -0400
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 17:54:35 -0400
+Processing by StaticPagesController#about as HTML
+Completed 500 Internal Server Error in 6ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:54:35 -0400
+Processing by StaticPagesController#help as HTML
+Completed 500 Internal Server Error in 6ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:56:01 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb (2.0ms)
+Completed 500 Internal Server Error in 102ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:56:01 -0400
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 17:56:01 -0400
+Processing by StaticPagesController#about as HTML
+Completed 500 Internal Server Error in 5ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:56:01 -0400
+Processing by StaticPagesController#help as HTML
+Completed 500 Internal Server Error in 5ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 17:57:59 -0400
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb (11.0ms)
+Completed 200 OK in 118ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 17:57:59 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:57:59 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 17:58:00 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 18:09:17 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 152ms (Views: 94.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 18:09:17 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 18:09:17 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 8ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 18:09:17 -0400
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 18:22:28 -0400
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 153ms (Views: 100.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 18:22:29 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 18:22:29 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 18:22:29 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-07-06 18:25:09 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 18:25:09 -0400
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 151ms (Views: 95.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 18:25:09 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 18:25:09 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 18:25:09 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 31ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-07-06 18:26:16 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 18:26:16 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 152ms (Views: 96.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-06 18:26:16 -0400
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-06 18:26:16 -0400
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-06 18:26:16 -0400
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 31ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (8.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/users" for 127.0.0.1 at 2014-07-27 20:47:50 -0400
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (35.0ms)
+  Rendered layouts/_shim.html.erb (1.0ms)
+  Rendered layouts/_header.html.erb (6.0ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 14690ms (Views: 14614.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  Rendered users/_form.html.erb (410.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/requests" for 127.0.0.1 at 2014-07-27 20:48:06 -0400
+Processing by RequestsController#index as HTML
+  [1m[35mRequest Load (1.0ms)[0m  SELECT "requests".* FROM "requests"
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 27ms (Views: 25.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (165.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}, "id"=>"1"}
+  [1m[35mRequest Load (1.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 200 OK in 11ms (Views: 8.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}, "id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests/1
+Completed 302 Found in 18ms (ActiveRecord: 0.0ms)
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}, "id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests/1
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (3.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"invalid value"}, "id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Completed 200 OK in 4ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"invalid value"}, "id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Completed 200 OK in 5ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (4.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "requests"[0m
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests/1
+Completed 302 Found in 5ms (ActiveRecord: 2.0ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "requests"[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests/1
+Completed 302 Found in 6ms (ActiveRecord: 3.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/requests/1
+Completed 302 Found in 6ms (ActiveRecord: 2.0ms)
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" ORDER BY "requests"."id" DESC LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"invalid value"}}
+Completed 200 OK in 39ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"invalid value"}}
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "requests"
+Processing by RequestsController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mRequest Load (0.0ms)[0m  [1mSELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mDELETE FROM "requests" WHERE "requests"."id" = ?[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests
+Completed 302 Found in 4ms (ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "requests"[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by RequestsController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mRequest Load (0.0ms)[0m  [1mSELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mDELETE FROM "requests" WHERE "requests"."id" = ?[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests
+Completed 302 Found in 3ms (ActiveRecord: 1.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (4.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[36m (1.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by RequestsController#new as HTML
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:48:06 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#index as HTML
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35mRequest Load (1.0ms)[0m  SELECT "requests".* FROM "requests"
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by UsersController#update as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}, "id"=>"1"}
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 200 OK in 9ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by UsersController#update as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}, "id"=>"1"}
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/users/1
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by UsersController#update as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}, "id"=>"1"}
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/users/1
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by UsersController#update as HTML
+  Parameters: {"user"=>{"name"=>"invalid value"}, "id"=>"1"}
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Completed 200 OK in 4ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by UsersController#update as HTML
+  Parameters: {"user"=>{"name"=>"invalid value"}, "id"=>"1"}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/users/1
+Completed 302 Found in 4ms (ActiveRecord: 2.0ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/users/1
+Completed 302 Found in 5ms (ActiveRecord: 2.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (3.0ms)[0m  INSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/users/1
+Completed 302 Found in 6ms (ActiveRecord: 3.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" ORDER BY "users"."id" DESC LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"invalid value"}}
+Completed 200 OK in 30ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"invalid value"}}
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "users"
+Processing by UsersController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mDELETE FROM "users" WHERE "users"."id" = ?[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/users
+Completed 302 Found in 4ms (ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by UsersController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mDELETE FROM "users" WHERE "users"."id" = ?[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/users
+Completed 302 Found in 3ms (ActiveRecord: 1.0ms)
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by UsersController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+Processing by UsersController#new as HTML
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:48:07 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by UsersController#index as HTML
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users"
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-27 20:48:07 -0400
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-27 20:48:07 -0400
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-07-27 20:48:07 -0400
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-07-27 20:48:07 -0400
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-07-27 20:48:07 -0400
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-27 20:48:07 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 15ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-27 20:48:07 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (1.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  Rendered requests/_form.html.erb (89.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  Rendered users/_form.html.erb (3.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  Rendered requests/_form.html.erb (6.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  Rendered requests/_form.html.erb (147.0ms)
+  Rendered requests/new.html.erb (267.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  Rendered requests/_form.html.erb (6.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/users" for 127.0.0.1 at 2014-07-27 20:54:44 -0400
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (5.0ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 207ms (Views: 167.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered users/_form.html.erb (4.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (16.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/users/1
+Completed 302 Found in 19ms (ActiveRecord: 16.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (2.0ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/users/1
+Completed 302 Found in 5ms (ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/users/1
+Completed 302 Found in 5ms (ActiveRecord: 1.0ms)
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users" ORDER BY "users"."id" DESC LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"invalid value"}}
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"invalid value"}}
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+Processing by UsersController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (1.0ms)[0m  DELETE FROM "users" WHERE "users"."id" = ?  [["id", 1]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/users
+Completed 302 Found in 4ms (ActiveRecord: 1.0ms)
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by UsersController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (1.0ms)[0m  DELETE FROM "users" WHERE "users"."id" = ?  [["id", 1]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/users
+Completed 302 Found in 3ms (ActiveRecord: 1.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by UsersController#new as HTML
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by UsersController#index as HTML
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Completed 200 OK in 8ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by UsersController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by UsersController#update as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}, "id"=>"1"}
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/users/1
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by UsersController#update as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}, "id"=>"1"}
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by UsersController#update as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}, "id"=>"1"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/users/1
+Completed 302 Found in 2ms (ActiveRecord: 1.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by UsersController#update as HTML
+  Parameters: {"user"=>{"name"=>"invalid value"}, "id"=>"1"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+Completed 200 OK in 4ms (Views: 0.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (36.0ms)[0m  [1mINSERT INTO "users" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["name", "MyString"], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by UsersController#update as HTML
+  Parameters: {"user"=>{"name"=>"invalid value"}, "id"=>"1"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (11.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-07-27 20:54:45 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-07-27 20:54:45 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-07-27 20:54:45 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-27 20:54:45 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-27 20:54:45 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-27 20:54:45 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-27 20:54:45 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/requests" for 127.0.0.1 at 2014-07-27 20:54:45 -0400
+Processing by RequestsController#index as HTML
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests"
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 13ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  Rendered users/_form.html.erb (2.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/requests/1
+Completed 302 Found in 5ms (ActiveRecord: 2.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "requests"
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/requests/1
+Completed 302 Found in 5ms (ActiveRecord: 2.0ms)
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "requests"
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/requests/1
+Completed 302 Found in 4ms (ActiveRecord: 2.0ms)
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" ORDER BY "requests"."id" DESC LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"invalid value"}}
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"invalid value"}}
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "requests"
+Processing by RequestsController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mRequest Load (0.0ms)[0m  [1mSELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mDELETE FROM "requests" WHERE "requests"."id" = ?[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests
+Completed 302 Found in 3ms (ActiveRecord: 2.0ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "requests"[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by RequestsController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mRequest Load (0.0ms)[0m  [1mSELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mDELETE FROM "requests" WHERE "requests"."id" = ?[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests
+Completed 302 Found in 4ms (ActiveRecord: 1.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by RequestsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[36m (1.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#index as HTML
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests"
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:45 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (25.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:46 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:46 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 200 OK in 8ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:46 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:46 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}, "id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests/1
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:46 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:46 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}, "id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:46 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:46 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}, "id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests/1
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:46 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:46 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"invalid value"}, "id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Completed 200 OK in 4ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:54:46 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:54:46 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"invalid value"}, "id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  Rendered requests/_form.html.erb (131.0ms)
+  Rendered requests/new.html.erb (243.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/users" for 127.0.0.1 at 2014-07-27 20:57:21 -0400
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 126ms (Views: 90.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  Rendered requests/_form.html.erb (6.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/requests" for 127.0.0.1 at 2014-07-27 20:57:21 -0400
+Processing by RequestsController#index as HTML
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests"
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by UsersController#new as HTML
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Completed 200 OK in 2ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+Completed 200 OK in 3ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"MyString"}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" ORDER BY "users"."id" DESC LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"invalid value"}}
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by UsersController#create as HTML
+  Parameters: {"user"=>{"name"=>"invalid value"}}
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (14.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "requests"[0m
+Processing by RequestsController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (1.0ms)[0m  DELETE FROM "requests" WHERE "requests"."id" = ?  [["id", 1]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/requests
+Completed 302 Found in 4ms (ActiveRecord: 1.0ms)
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "requests"
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by RequestsController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mRequest Load (0.0ms)[0m  SELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (1.0ms)[0m  DELETE FROM "requests" WHERE "requests"."id" = ?  [["id", 1]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/requests
+Completed 302 Found in 3ms (ActiveRecord: 1.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}, "id"=>"1"}
+  [1m[36mRequest Load (0.0ms)[0m  [1mSELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/requests/1
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}, "id"=>"1"}
+  [1m[36mRequest Load (1.0ms)[0m  [1mSELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Completed 200 OK in 8ms (Views: 6.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[35m (1.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}, "id"=>"1"}
+  [1m[36mRequest Load (0.0ms)[0m  [1mSELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/requests/1
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"invalid value"}, "id"=>"1"}
+  [1m[36mRequest Load (0.0ms)[0m  [1mSELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+Completed 200 OK in 4ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by RequestsController#update as HTML
+  Parameters: {"request"=>{"date"=>"invalid value"}, "id"=>"1"}
+  [1m[36mRequest Load (0.0ms)[0m  [1mSELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+Completed 200 OK in 4ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by RequestsController#new as HTML
+Completed 200 OK in 64ms (Views: 64.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests/1
+Completed 302 Found in 4ms (ActiveRecord: 2.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "requests"[0m
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests/1
+Completed 302 Found in 3ms (ActiveRecord: 2.0ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "requests"[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"2014-07-09"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/requests/1
+Completed 302 Found in 41ms (ActiveRecord: 1.0ms)
+  [1m[36mRequest Load (0.0ms)[0m  [1mSELECT "requests".* FROM "requests" ORDER BY "requests"."id" DESC LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"invalid value"}}
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by RequestsController#create as HTML
+  Parameters: {"request"=>{"date"=>"invalid value"}}
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by RequestsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mRequest Load (0.0ms)[0m  [1mSELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by RequestsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mRequest Load (1.0ms)[0m  [1mSELECT "requests".* FROM "requests" WHERE "requests"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Completed 200 OK in 2ms (Views: 0.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "requests" ("created_at", "date", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00], ["date", Wed, 09 Jul 2014], ["updated_at", Mon, 28 Jul 2014 00:57:21 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by RequestsController#index as HTML
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36mRequest Load (0.0ms)[0m  [1mSELECT "requests".* FROM "requests"[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-07-27 20:57:21 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-07-27 20:57:21 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-07-27 20:57:21 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-07-27 20:57:21 -0400
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-27 20:57:21 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-07-27 20:57:21 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-07-27 20:57:21 -0400
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered users/_form.html.erb (4.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered users/_form.html.erb (3.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
