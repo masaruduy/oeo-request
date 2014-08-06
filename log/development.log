@@ -29220,3 +29220,822 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-06 16:12:54
 
 
 Started GET "/assets/Orsyp_logo.png" for 127.0.0.1 at 2014-08-06 16:12:54 -0400
+
+
+Started GET "/time_request" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+Processing by StaticPagesController#time_request as HTML
+  Parameters: {"authenticity_token"=>"8eYCz/y872WmjSzCpRTLcNhWi9162u5hFeRTdhj34Es="}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1
+  Rendered static_pages/time_request.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 157ms (Views: 155.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/requests.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/requests.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/assets/Orsyp_logo.png" for 127.0.0.1 at 2014-08-06 16:13:08 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-06 16:13:43 -0400
+Processing by StaticPagesController#home as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1[0m
+  Rendered static_pages/home.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 105ms (Views: 103.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/time_request" for 127.0.0.1 at 2014-08-06 16:13:45 -0400
+Processing by StaticPagesController#time_request as HTML
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1
+  Rendered static_pages/time_request.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 101ms (Views: 99.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/time_request" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+Processing by StaticPagesController#time_request as HTML
+  Parameters: {"authenticity_token"=>"8eYCz/y872WmjSzCpRTLcNhWi9162u5hFeRTdhj34Es="}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1[0m
+  Rendered static_pages/time_request.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 126ms (Views: 125.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/requests.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/requests.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/assets/Orsyp_logo.png" for 127.0.0.1 at 2014-08-06 16:13:47 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-06 16:13:49 -0400
+Processing by StaticPagesController#home as HTML
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1
+  Rendered static_pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_shim.html.erb (1.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 105ms (Views: 104.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/time_request" for 127.0.0.1 at 2014-08-06 16:13:54 -0400
+Processing by StaticPagesController#time_request as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1[0m
+  Rendered static_pages/time_request.html.erb within layouts/application (19.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 113ms (Views: 111.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/time_request" for 127.0.0.1 at 2014-08-06 16:14:36 -0400
+Processing by StaticPagesController#time_request as HTML
+  Parameters: {"authenticity_token"=>"8eYCz/y872WmjSzCpRTLcNhWi9162u5hFeRTdhj34Es="}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1
+  Rendered static_pages/time_request.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 141ms (Views: 139.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-06 16:14:36 -0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-08-06 16:14:36 -0400
+
+
+Started GET "/assets/requests.css?body=1" for 127.0.0.1 at 2014-08-06 16:14:36 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-08-06 16:14:36 -0400
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-08-06 16:14:36 -0400
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/requests.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/assets/Orsyp_logo.png" for 127.0.0.1 at 2014-08-06 16:14:37 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-06 16:14:51 -0400
+Processing by StaticPagesController#home as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1[0m
+  Rendered static_pages/home.html.erb within layouts/application (5.0ms)
+  Rendered layouts/_shim.html.erb (1.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 127ms (Views: 125.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-06 16:15:16 -0400
+Processing by StaticPagesController#home as HTML
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1
+  Rendered static_pages/home.html.erb within layouts/application (5.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 143ms (Views: 141.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/requests.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/requests.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/assets/Orsyp_logo.png" for 127.0.0.1 at 2014-08-06 16:15:17 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-06 16:15:25 -0400
+Processing by StaticPagesController#home as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1[0m
+  Rendered static_pages/home.html.erb within layouts/application (5.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 132ms (Views: 131.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/time_request" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+Processing by StaticPagesController#time_request as HTML
+  Parameters: {"authenticity_token"=>"8eYCz/y872WmjSzCpRTLcNhWi9162u5hFeRTdhj34Es="}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1
+  Rendered static_pages/time_request.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 102ms (Views: 100.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/requests.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/requests.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/assets/Orsyp_logo.png" for 127.0.0.1 at 2014-08-06 16:15:43 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-06 16:15:47 -0400
+Processing by StaticPagesController#home as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1[0m
+  Rendered static_pages/home.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 109ms (Views: 106.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/time_request" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+Processing by StaticPagesController#time_request as HTML
+  Parameters: {"authenticity_token"=>"8eYCz/y872WmjSzCpRTLcNhWi9162u5hFeRTdhj34Es="}
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1
+  Rendered static_pages/time_request.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 86ms (Views: 85.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/requests.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/requests.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/assets/Orsyp_logo.png" for 127.0.0.1 at 2014-08-06 16:15:49 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-06 16:15:50 -0400
+Processing by StaticPagesController#home as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1[0m
+  Rendered static_pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 122ms (Views: 120.0ms | ActiveRecord: 1.0ms)
+
+
+Started DELETE "/signout" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"8eYCz/y872WmjSzCpRTLcNhWi9162u5hFeRTdhj34Es="}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."remember_token" = '1c20917339f6a91050966455369bea9ad8015c41' LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Binary data inserted for `string` type on column `remember_token`
+  [1m[35mSQL (2.0ms)[0m  UPDATE "users" SET "remember_token" = ?, "updated_at" = ? WHERE "users"."id" = 4  [["remember_token", "25e87252f4e8420f50166e5d222cd7e981f7bb8c"], ["updated_at", Wed, 06 Aug 2014 20:15:51 UTC +00:00]]
+  [1m[36m (7.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 42ms (ActiveRecord: 10.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+Processing by StaticPagesController#home as HTML
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."remember_token" = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered static_pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."remember_token" = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 112ms (Views: 110.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/requests.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:51 -0400
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/requests.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/assets/Orsyp_logo.png" for 127.0.0.1 at 2014-08-06 16:15:52 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-06 16:15:55 -0400
+Processing by StaticPagesController#home as HTML
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."remember_token" = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered static_pages/home.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."remember_token" = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 149ms (Views: 147.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/signin" for 127.0.0.1 at 2014-08-06 16:15:57 -0400
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."remember_token" = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 105ms (Views: 104.0ms | ActiveRecord: 1.0ms)

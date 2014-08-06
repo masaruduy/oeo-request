@@ -1,7 +1,7 @@
 <% provide(:title, 'Home') %>
 <div class="center hero-unit">
 	<h1>Automic Expertise Online </h1>
-	<h2>Time Request</h2>
+	<h2>Time Request Portal</h2>
 	<% if signed_in? %>
 	<h3> You are currently logged on as <%= current_user.email %>.</h3><br>
 	<h4>Back to <%= link_to "Time Request", time_request_path , class: "btn btn-large btn-primary" %> or <%= link_to "Sign Out", signout_path , class: "btn default" %></h4>
