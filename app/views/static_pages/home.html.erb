@@ -4,13 +4,13 @@
 	<h2>Time Request</h2>
 	<% if signed_in? %>
 	<h3> You are currently logged on as <%= current_user.email %>.</h3><br>
-	<%= link_to "Time Request", time_request_path , class: "btn btn-large btn-primary" %>
-	<br>
-	<%= link_to "Sign Out", signout_path , class: "btn btn-large btn-primary" %>
+	<h4>Back to <%= link_to "Time Request", time_request_path , class: "btn btn-large btn-primary" %> or <%= link_to "Sign Out", signout_path , class: "btn default" %></h4>
 
+	
 	<% else %>
 	
 	<%= link_to "Sign In", signin_path , class: "btn btn-large btn-primary" %>
 
 	<% end %>
+	<br>
 </div>
