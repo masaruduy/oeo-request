@@ -11,11 +11,10 @@ OeoRequest::Application.routes.draw do
   #Duy:for the time_request page
   match '/time_request', to: 'static_pages#time_request',     via: 'get'
   
-  
   match '/signup',  to: 'users#new',            via: 'get'
   match '/signin',  to: 'sessions#new',         via: 'get'
   match '/signout', to: 'sessions#destroy',     via: 'delete'
-  
+  match '/signout', to: 'sessions#destroy',     via: 'get'
   
   
   resources :sessions, only: [:new, :create, :destroy]
