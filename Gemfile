@@ -12,9 +12,24 @@ group :development, :test do
   gem 'webrick', '~> 1.3.1'
   gem 'sqlite3', '1.3.8'
   gem 'rspec-rails', '2.13.1'
+  gem 'guard_rails'
 end
 
+group :development do
+  gem 'thin'
+  gem 'better_errors'
+  gem 'binding_of_caller'
+end
+
+
+
 group :test do
+  gem 'simplecov', require: false
+  gem 'guard', require: false
+  gem 'guard-rspec', require: false
+  gem 'fabrication'
+  gem 'faker'
+  gem 'database_cleaner'
   gem 'selenium-webdriver', '2.35.1'
   gem 'capybara', '2.1.0'
   
